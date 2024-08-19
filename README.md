@@ -1,1 +1,2 @@
-# Web-Trafik-Loglar-na-Dayal-Yapay-Zeka-Destekli-Soru-Cevap-Sistemi
+# Web Trafik Loglarına Dayalı Yapay Zeka Destekli Soru Cevap Sistemi
+Bu projede, bir web sitesinin trafik loglarını kullanarak bir yapay zeka destekli soru-cevap (Q&A) sistemi geliştirilmiştir. Sistem, kullanıcılardan gelen doğal dildeki soruları alarak, ilgili log verilerini analiz eder ve bu verilerle uygun yanıtları oluşturur. Temel olarak Retrieval-Augmented Generation (RAG) modeli kullanılmıştır.
